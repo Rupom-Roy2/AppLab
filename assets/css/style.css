@@ -1,0 +1,443 @@
+/* 
+Templet Name:AppLab
+Templet Url:webdesginerrup.com
+Author: Rupom Roy
+Authoe Url: webdesginerrup.rupom.com
+Tag: Semple Agency Templet
+*/
+/* 
+ Header area
+ Company logo
+ App
+ Smart
+ network
+ Desginer
+ choose app
+ features app
+ charge 
+ meet
+ question
+ downlode
+ footer
+  */
+
+
+/* ******Rupom******** */
+/* header area css */
+/* ******Rupom******** */
+.header-area {
+  background: url(../img/header-banner.jpg) no-repeat;
+  background-size: cover;
+ height: 100%;
+  margin-bottom: 160px;
+  margin-bottom: 10rem;
+}
+.header-top{
+  margin-top: 128px;
+  margin-top: 8rem;
+}
+
+.menu{
+  margin-right: 160px;
+  margin-right: 10rem;
+}
+.menu-show-btn{
+  font-size: 28px;
+  display: none;
+  margin-left: 32px;
+  margin-left: 2rem;
+}
+
+.footer-menu ul li,.menu ul li{
+  margin-right: 32px;
+  margin-right: 2rem;
+  font-size: 28.8px;
+  font-size: 1.8rem;
+}
+.footer-menu ul li a,.menu ul li a{
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+.menu ul li a:hover,.footer-menu ul li a:hover{
+  color: var(--color5);
+}
+.header-body {
+  padding-bottom: 128px;
+  padding-bottom: 8rem;
+}
+
+.choice a {
+	background: #e2eaed;
+	padding: 8px 48px 8px 16px;
+	padding: 0.5rem 3rem 0.5rem 1rem;
+	border-radius: 2rem;
+}
+.choice a i{
+  background:var(--color5);
+  border-radius: 50%;
+  padding: 8px;
+  padding: .5rem;
+}
+
+.link a{
+  margin-left: 32px;
+  margin-left: 2rem;
+}
+.header-img-area {
+	height: 960px;
+	height: 60rem;
+  margin-left: 192px;
+  margin-left: 12rem;
+  margin-top: 192px;
+  margin-top: 12rem;
+}
+.header-img-area img{
+height:99%;
+
+
+}
+/* ******Rupom******** */
+/* Company logo area css */
+/* ******Rupom******** */
+.company-logo-heading{
+  text-align: center;
+}
+.company-logo-img-area {
+  width: 80%;
+  margin: auto;
+}
+/* ******Rupom******** */
+   /* App area css */
+/* ******Rupom******** */
+.app-area{
+  margin-bottom: 80px;
+  margin-bottom: 5rem;
+}
+.app-area-img img{
+  width: 100%;
+  padding: 40px;
+  padding: 2.5rem;
+}
+.app-area-text h3{
+  max-width: 480px;
+  max-width: 30rem;
+}
+.app-area-text p{
+  max-width: 688px;
+  max-width: 43rem;
+}
+.app-details-box-text p {
+	max-width: 496px;
+	max-width: 31rem;
+}
+/* ******Rupom******** */
+   /* smart area css */
+/* ******Rupom******** */
+.smart-area{
+  position: relative;
+}
+.smart-area-heading-text:after{
+  content: '';
+  height: 320px;
+  height: 20rem;
+  width: 4.8px;
+  width: .3rem;
+  background: var(--color-p);
+  position: absolute;
+  top: 0;
+  left: 50%;
+  right: 50%;
+}
+/* ******Rupom******** */
+   /* network area css */
+/* ******Rupom******** */
+.network-box{
+  max-width: 456px;
+  max-width: 28.5rem;
+  width: 100%;
+}
+/* ******Rupom******** */
+  /* desginer-img area css */
+/* ******Rupom******** */
+.desginer-img img{
+  max-width: 936px;
+  max-width: 58.5rem;
+width: 100%;
+}
+.desginer-text {
+  max-width: 672px;
+  max-width: 42rem;
+  width: 100%;
+}
+/* ******Rupom******** */
+  /* choose app area css */
+/* ******Rupom******** */
+.choose-app-header-text{
+  text-align: center;
+}
+.choose-app-header-text h3{
+  max-width: 720px;
+  max-width: 45rem;
+  width: 100%;
+  margin: 0 auto;
+}
+.choose-app-header-text p{
+  max-width: 1016px;
+  max-width: 63.5rem;
+  width: 100%;
+  margin: 0 auto;
+}
+.choose-app-box{
+padding: 80px;
+padding: 5rem;
+text-align: center;
+}
+/* ******Rupom******** */
+  /* features app area css */
+/* ******Rupom******** */
+.features-apps-area{
+  position: relative;
+}
+.feature-heading-text h3{
+  max-width: 512px;
+  max-width: 32rem;
+  width: 100%;
+}
+.feature-heading-text p{
+  max-width: 640px;
+  max-width: 40rem;
+  width: 100%;
+}
+.features-img {
+	width: 100%;
+}
+	
+
+.features-img img{
+  width: 1072px;
+  width: 67rem;
+  position: absolute;
+  right: 0;
+	top: 0;
+}
+
+/* ******Rupom******** */
+  /* charge area css */
+/* ******Rupom******** */
+.charge-header{
+  max-width: 1016px;
+  max-width: 63.5rem;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 112px;
+  margin-bottom: 7rem;
+}
+.btn-body{
+  max-width: 448px;
+  max-width: 28rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 16px 0;
+  padding: 1rem 0;
+  border-radius: 3rem;
+  border: 3.2px solid rgb(235, 235, 235);
+  border:.2rem solid rgb(235, 235, 235);
+}
+.plr a{
+  padding-left: 56px;
+  padding-left: 3.5rem;
+}
+.charge-box{
+  max-width: 512px;
+  max-width: 32rem;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 32px;
+  padding-bottom: 2rem;
+  margin: 0 auto;
+}
+.charge-ammount-header{
+  width: 100%;
+  height: 384px;
+  height: 24rem;
+  background: rgb(244, 247, 249);
+  padding: 16px;
+  padding: 1rem;
+}
+.charge-ammount-header p span{
+  font-size: 96px;
+  font-size: 6rem;
+  color:var(--color);
+  font-weight: 600;
+  
+}
+.charge-ammount-body{
+  background: var(--color4);
+  
+}
+.charge-ammount-body ul li{
+  font-size: 25.6px;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: var(--color-p);
+  line-height: 56px;
+  line-height: 3.5rem;
+}
+/* ******Rupom******** */
+  /* meet area css */
+/* ******Rupom******** */
+.meet-area{
+  position: relative;
+}
+.meet-img {
+	position: absolute;
+	width: 100%;
+	top: 10px;
+	left: 0;
+}
+.meet-img img{
+width: 1072px;
+width: 67rem;
+}
+.meet-icon{
+color: #ffcc00;
+}
+.meet-profile-icon{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  
+}
+.meet-profile-icon i{
+  width: 80px;
+  width: 5rem;
+  height: 80px;
+  height: 5rem;
+  border-radius: 50%;
+  background: rgb(239, 243, 248);
+  text-align: center;
+  line-height: 80px;
+  line-height: 5rem;
+  margin: 16px;
+  margin: 1rem;
+
+}
+
+.meet-profile-icon i:first-child{
+  border: 3.2px solid rgb(239, 243, 248);
+  border: .2rem solid rgb(239, 243, 248);
+  background:#fff;
+}
+/* ******Rupom******** */
+  /* question area css */
+/* ******Rupom******** */
+.question-heading{
+  max-width: 1040px;
+  max-width: 65rem;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 80px;
+  margin-bottom: 5rem;
+}
+.question-boxs{
+  max-width: 1520px;
+  max-width: 95rem;
+  width: 100%;
+  margin: 0 auto;
+}
+.question-box{
+  background: #f5f7fa;
+  padding: 64px;
+  padding: 4rem;
+  margin-bottom: 8px;
+  margin-bottom: .5rem;
+}
+.question-box h4{
+  margin-bottom: 48px;
+  margin-bottom: 3rem;
+}
+.question-item{
+  background: #f5f7fa;
+  margin-bottom: 8px;
+  margin-bottom: .5rem;
+  padding: 16px;
+  padding: 1rem;
+}
+/* ******Rupom******** */
+  /* downlode area css */
+/* ******Rupom******** */
+.downlode-area{
+  position: relative;
+}
+.downlode-img img{
+  width: 288px;
+  width: 18rem;
+  margin: 16px;
+  margin: 1rem;
+}
+.downlode-loction-img{
+  width: 100%;
+}
+.downlode-loction-img img {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 1072px;
+	width:67rem;
+}
+/* ******Rupom******** */
+  /* footer area css */
+/* ******Rupom******** */
+
+.footer-area{
+background: url(../img/footer-banner.jpg) no-repeat;
+height: 800px;
+height: 50rem;
+background-size: cover;
+padding: 80px;
+padding: 5rem;
+}
+.footer-logo{
+  display: block;
+  text-align: center;
+  margin-top: 80px;
+  margin-top: 5rem;
+  
+}
+.d-b{
+  display: block;
+  
+}
+
+.footer-menu ul li a{
+  color: var(--color4);
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+.footer-icon{
+  text-align: center;
+}
+.footer-icon a{
+ font-size: 44.8px;
+ font-size: 2.8rem;
+  padding: 32px 16px;
+  padding: 2rem 1rem;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+.footer-icon a :hover{
+ color: var(--color4);
+}
+
+.copy-right p{
+  font-size: 22.4px;
+  font-size: 1.4rem;
+}

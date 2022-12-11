@@ -1,0 +1,169 @@
+@media all and (max-width: 1200px){
+    .container{
+        width: 90%;
+    }
+    .menu{
+        margin-left: 0;
+      }
+}
+@media all and (max-width: 991px){
+    
+   
+    .col-6{
+        width: 100%;
+    }
+    .col-4{
+        width: 50%;
+    }
+    .col-3 {
+        width: 50%;
+       
+    }
+    .col-2 {
+        width: 33%;
+        flex-wrap: wrap;
+        padding: 1rem;
+    }
+    .mb-5 {
+        margin-bottom: 10rem;
+        order: 1;
+    }
+    h1 {
+        font-size: 4.8rem;
+        font-weight: 600;
+    }
+    h2 {
+        font-size: 3rem;
+        font-weight: 600;
+    }
+    .header-text-area {
+        margin-top: 10rem;
+    }
+    .header-img-area {
+        height: 60rem;
+        margin: auto;
+        margin-top: 7rem;
+    }
+    .menu{
+        display: none;
+    }
+    .menu-show-btn{
+        display: block;
+    }
+    .order{
+        order: -1;
+    }
+    .desginer-text {
+        margin-bottom: 5rem;
+    }
+    .desginer-img{
+        text-align: center;
+        margin-bottom: 3rem;
+    }
+    .features-img img{
+        display: none;
+        
+    }
+    
+    .meet-img {
+        position: inherit;
+        width: 100%;
+    }
+    .meet-img img {
+        width: 100%;
+    }
+   
+    .downlode-loction-img img{
+        position: inherit;
+    }
+
+}
+
+@media all and (max-width: 767px){
+    
+    h1 {
+        font-size: 4rem;
+        font-weight: 600;
+    }
+    h4{
+        font-size: 1.8rem;
+    }
+    
+}
+
+@media all and (max-width:676px){
+    h1 {
+        font-size: 3.6rem;
+        font-weight: 600;
+    }
+    h2 {
+	    font-size: 2.4rem;
+	    font-weight: 600;
+    }
+    h4{
+        font-size: 1.6rem;
+    }
+    .col-4 {
+	width: 100%;
+    }
+    .col-2 {
+        width: 50%;
+    }
+    .col-8{
+        width: 100%;
+    }
+    .downlode-loction-img img {
+        
+        width: 39rem;
+    }
+}
+@media all and (max-width:576px){
+    h1 {
+        font-size: 3.2rem;
+        font-weight: 600;
+    }
+    h4{
+        font-size: 1.5rem;
+        font-weight: 400;
+    }
+    .col-2 {
+        width: 100%;
+    }
+
+    .col-3 {
+	width: 100%;
+    }
+
+    .meet-img img{
+    width: 37rem;
+    }
+    .downlode-loction-img img {
+        
+        width: 29rem;
+    }
+    
+   
+}
+@media all and (max-width:400px){
+    .col-2 {
+        width: 100%;
+    }
+    .meet-img img{
+        width: 29rem;
+        }
+    .header-btn{
+        display: none;
+    }
+    .company-logo-img-area{
+        margin: 0;
+        justify-content: center;
+        width: 100%;
+        margin: auto;
+       
+    }
+    .company-logo-img {
+        text-align: center;
+    }
+    
+
+}
